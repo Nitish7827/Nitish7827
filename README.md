@@ -22,11 +22,11 @@
  
  <!----------------------------------- Profile View Section ------------------------------------>   
   <p align="left">
-    <a href="https://github.com/Nitish8800">
-        <img src="https://komarev.com/ghpvc/?username=Nitish8800&label=Profile%20views&color=0e75b6&style=flat" alt="Nitish8800" />
+    <a href="https://github.com/Nitish7827">
+        <img src="https://komarev.com/ghpvc/?username=Nitish7827&label=Profile%20views&color=0e75b6&style=flat" alt="Nitish7827" />
     </a>
-    <a href="https://github.com/Nitish8800?tab=followers">
-        <img src="https://img.shields.io/github/followers/Nitish8800?label=Followers&style=social" alt="followers-count">
+    <a href="https://github.com/Nitish7827?tab=followers">
+        <img src="https://img.shields.io/github/followers/Nitish7827?label=Followers&style=social" alt="followers-count">
     </a>
 </p>
 </div>
@@ -35,7 +35,7 @@
 
 - 🔭 Intrigued to learn new technologies in Web Development.
 
-- 👨‍💻 All of my projects are available at [Nitish8800](https://github.com/Nitish8800?tab=repositories)
+- 👨‍💻 All of my projects are available at [Nitish7827](https://github.com/Nitish7827?tab=repositories)
 
 - 📝 I write articles on [https://medium.com/@nitishfea120784](https://medium.com/@nitishfea120784)
 
@@ -43,7 +43,7 @@
 
 - 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/nitish-kumar-50a564205/)
 
-- ⚡ My Portfolio - **[Nitish Kumar](https://portfolio-nitish8800.vercel.app/)**
+- ⚡ My Portfolio - **[Nitish Kumar](https://portfolio-Nitish7827.vercel.app/)**
 
 <h3 align="left" border="0"> <i> My Tech Stack </i> </h3>
 <br>
@@ -79,7 +79,7 @@
   <a href="https://www.linkedin.com/in/nitish-kumar-50a564205/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://twitter.com/Nitishk60487582"><img src="https://img.shields.io/badge/twitter-1c9ceb?style=for-the-badge&logo=twitter&logoColor=white"></a>
   <a href="https://www.instagram.com/_niku_8800/"><img src="https://img.shields.io/badge/instagram-d11b59?style=for-the-badge&logo=instagram&logoColor=white"></a>
-    <a href="https://portfolio-nitish8800.vercel.app/"><img src="https://img.shields.io/badge/portfolio-00000?style=for-the-badge&logo=portfolio&logoColor=black"></a>
+    <a href="https://portfolio-Nitish7827.vercel.app/"><img src="https://img.shields.io/badge/portfolio-00000?style=for-the-badge&logo=portfolio&logoColor=black"></a>
   
 </p>
 <hr />
@@ -87,9 +87,9 @@
 
 
 
-| ![Nitish's github stats](https://github-readme-stats.vercel.app/api?username=Nitish8800&show_icons=true&theme=tokyonight) | ![Nitish GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nitish8800&theme=tokyonight) |
+| ![Nitish's github stats](https://github-readme-stats.vercel.app/api?username=Nitish7827&show_icons=true&theme=tokyonight) | ![Nitish GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nitish7827&theme=tokyonight) |
 | --- | --- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nitish8800&theme=tokyonight) | Well...That's all ♾️ <br> Have a li'l smile 😄 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)|
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nitish7827&theme=tokyonight) | Well...That's all ♾️ <br> Have a li'l smile 😄 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)|
 
 
 <hr>
