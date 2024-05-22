@@ -26,7 +26,7 @@
         <img src="https://komarev.com/ghpvc/?username=Nitish7827&label=Profile%20views&color=0e75b6&style=flat" alt="Nitish7827" />
     </a>
     <a href="https://github.com/Nitish7827?tab=followers">
-        <img src="https://img.shields.io/github/followers/Nitish7827?label=Followers&style=social" alt="followers-count">
+        <img src="https://img.shields.io/github/followers/Nitish8800?label=Followers&style=social" alt="followers-count">
     </a>
 </p>
 </div>
@@ -43,7 +43,7 @@
 
 - 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/nitish-kumar-50a564205/)
 
-- ⚡ My Portfolio - **[Nitish Kumar](https://portfolio-Nitish7827.vercel.app/)**
+- ⚡ My Portfolio - **[Nitish Kumar](https://portfolio-Nitish8800.vercel.app/)**
 
 <h3 align="left" border="0"> <i> My Tech Stack </i> </h3>
 <br>
@@ -79,7 +79,7 @@
   <a href="https://www.linkedin.com/in/nitish-kumar-50a564205/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://twitter.com/Nitishk60487582"><img src="https://img.shields.io/badge/twitter-1c9ceb?style=for-the-badge&logo=twitter&logoColor=white"></a>
   <a href="https://www.instagram.com/_niku_8800/"><img src="https://img.shields.io/badge/instagram-d11b59?style=for-the-badge&logo=instagram&logoColor=white"></a>
-    <a href="https://portfolio-Nitish7827.vercel.app/"><img src="https://img.shields.io/badge/portfolio-00000?style=for-the-badge&logo=portfolio&logoColor=black"></a>
+    <a href="https://portfolio-Nitish8800.vercel.app/"><img src="https://img.shields.io/badge/portfolio-00000?style=for-the-badge&logo=portfolio&logoColor=black"></a>
   
 </p>
 <hr />
