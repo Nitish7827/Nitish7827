@@ -71,6 +71,7 @@
     <img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" alt="material-ui" />
     <img src="https://img.shields.io/badge/Chakra%20UI-3bc7bd?style=for-the-badge&logo=chakraui&logoColor=white" alt="chakra-ui" />
   <img src="https://img.shields.io/badge/Tailwind%20CSS-E34F26?style=for-the-badge&logo=Tailwind CSS&logoColor=white" alt="Tailwind" />
+     <img src="https://img.shields.io/badge/React Native-323330?style=for-the-badge&logo=React Native&logoColor=F7DF1E" alt="React Native" />
 </p>
 <br> 
         
