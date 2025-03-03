@@ -9,7 +9,7 @@
 <img src="https://img.shields.io/badge/R-React-skyblue"/>
 <img src="https://img.shields.io/badge/N-Node-green"/>
 <img src="https://img.shields.io/badge/JS-Javascript-white"/>
-<img src="https://img.shields.io/badge/R-React Native-skyblue"/>
+<img src="https://img.shields.io/badge/R-React Native-blue"/>
 </p>
   
   <!----------------------------------- About Section ------------------------------------>
