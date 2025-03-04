@@ -6,10 +6,10 @@
 <p align= "center">
 <img src="https://img.shields.io/badge/M-MongoDB-brightgreen"/>
 <img src="https://img.shields.io/badge/E-Express-black"/>
-<img src="https://img.shields.io/badge/R-React-skyblue"/>
+<img src="https://img.shields.io/badge/R-React-blue"/>
 <img src="https://img.shields.io/badge/N-Node-green"/>
 <img src="https://img.shields.io/badge/JS-Javascript-white"/>
-<img src="https://img.shields.io/badge/R-React Native-blue"/>
+<img src="https://img.shields.io/badge/R-React Native-skyblue"/>
 </p>
   
   <!----------------------------------- About Section ------------------------------------>
